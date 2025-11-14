@@ -7,5 +7,11 @@ Functions:
 - delete tasks
 - exit from app
 
+How to install/use:
+- 
+
 Skills learnt:
+- 
+
+Features I added myself:
 - 
