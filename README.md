@@ -1,0 +1,5 @@
+- add tasks
+- views tasks
+- marks tasks as complete
+- delete tasks
+- exit from app
