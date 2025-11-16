@@ -1,22 +1,22 @@
 My attempt at building and shipping a CLI to-do list with the help of a tutorial.
 
-What it does:
+**What it does:**
 - Add tasks
 - Views tasks
 - Marks tasks as complete
 - Delete tasks
 - Exit from app
 
-Features I added myself:
+**Features I added:**
 - 
 
-Features I want to add:
+**Features I want to add:**
 - 
 
-How to install/use:
+**How to install/use:**
 - 
 
-What I learnt:
+**What I learnt:**
 - How to structure a program using clean, modular code instead of dumping everything in one massive file.
 - Understanding how a central main.py runs the show by calling functions from other files, and how each file handles its own responsibility.
 - How functions actually work in real apps — they don’t need to be long, fancy, or complex. Their entire purpose is to do one job and be reused.
