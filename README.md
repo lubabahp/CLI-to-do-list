@@ -8,11 +8,10 @@ My attempt at building and shipping a CLI to-do list with the help of a tutorial
 - Exit from app
 
 **Features I added:**
-- 
+- Edit tasks
 
 **Features I want to add:**
 - Prioritise tasks
-- Edit tasks
 - Reorder tasks
 
 **How to install/use:**
