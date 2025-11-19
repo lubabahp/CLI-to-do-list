@@ -42,3 +42,18 @@ def delete_tasks(tasks):
      print("Invalid task number")
 
 # parameter is the variable in the (). argument is the value that are sent to the function when it's called.
+
+def edit_tasks(tasks):
+  view_tasks(tasks)
+  num = int(input("Which task do you want to edit? "))
+  
+  if 1 <= num <= len(tasks):
+    tasks[int(num) - 1] = input("Insert your edited text: ")
+  else:
+    print("Invalid task number")
+    
+  # let user pick the task by indexing on the list (users number - 1)
+  # allow them to edit it?
+  # then resubmit to list?
+  
+  
