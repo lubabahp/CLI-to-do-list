@@ -56,4 +56,11 @@ def edit_tasks(tasks):
   # allow them to edit it?
   # then resubmit to list?
   
-  
+  def prioritise_tasks():
+  priority = int(input("Which task number do you want to prioritise? "))    # int cause it needs to be a number
+
+  if 1 <= priority <= len(tasks):
+    priority_task = tasks.pop(priority - 1)   # minus 1 cause python starts at 0 
+    tasks.insert(0, priority_task)   # .insert basically pushes to front of list w/out replacing
+  else:
+    print("Invalid task number.")  
