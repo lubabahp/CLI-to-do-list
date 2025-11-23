@@ -9,9 +9,9 @@ My attempt at building and shipping a CLI to-do list with the help of a tutorial
 
 **Features I added:**
 - Edit tasks
+- Prioritise tasks
 
 **Features I want to add:**
-- Prioritise tasks
 - Reorder tasks
 
 **How to install/use:**
