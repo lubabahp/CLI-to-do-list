@@ -65,7 +65,6 @@ def edit_tasks(tasks):
       print("Invalid task number.")  
 
 def reorder_tasks(tasks):
-  # take the list make the user pick which task they wanna put somewhere else
-  # somehow change the index ig
-  # like pop() the task or whatever
+  task_to_reorder = input(f"Pick a task from {however u get the numbers the top and bottom from the task list}")
+  # somehow change the index ig like .pop() the task or whatever
   # then use .insert() to put it where user wants
