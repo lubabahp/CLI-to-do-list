@@ -15,7 +15,7 @@ My attempt at building and shipping a CLI to-do list with the help of a tutorial
 - Reorder tasks
 
 **How to install/use:**
-- 
+- (I need to run this properly myself, will do soon!)
 
 **What I learnt:**
 - How to structure a program using clean, modular code instead of dumping everything in one massive file.
